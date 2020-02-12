@@ -1,0 +1,19 @@
+{
+  "name": "midtermapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.17.1",
+    "forecast.io": "0.0.11",
+    "morgan": "^1.9.1",
+    "path": "^0.12.7",
+    "zippity-do-dah": "0.0.3"
+  }
+}
